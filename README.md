@@ -1,6 +1,13 @@
-# flashcard_learning_app
+# Flashcard Learning App
 
-A new Flutter project.
+This is Flash card Application Learn about flash card.
+
+---
+
+## Output
+![Alt text](1.png "Output")
+
+---
 
 ## Getting Started
 
